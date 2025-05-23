@@ -1,12 +1,9 @@
-import React from "react";
-import { Text, View } from "react-native";
-
-const Schedule = () => {
+import { View, Text } from 'react-native';
+const ScheduleScreen = () => {
   return (
     <View>
-      <Text>Schedule</Text>
+      <Text>ScheduleScreen</Text>
     </View>
   );
 };
-
-export default Schedule;
+export default ScheduleScreen;

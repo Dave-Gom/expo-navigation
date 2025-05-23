@@ -1,12 +1,9 @@
-import React from "react";
-import { Text, View } from "react-native";
-
-const UserDrawerPage = () => {
+import { View, Text } from 'react-native';
+const UserScreen = () => {
   return (
     <View>
-      <Text>UserDrawerPage</Text>
+      <Text>UserScreen</Text>
     </View>
   );
 };
-
-export default UserDrawerPage;
+export default UserScreen;
